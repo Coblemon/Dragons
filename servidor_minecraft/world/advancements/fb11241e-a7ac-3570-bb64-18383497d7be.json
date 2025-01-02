@@ -314,6 +314,13 @@
     },
     "done": true
   },
+  "croparia:recipes/misc/seed_crop_rawchicken": {
+    "criteria": {
+      "has_chicken": "2025-01-02 02:58:13 +0000",
+      "has_the_recipe": "2025-01-02 02:58:13 +0000"
+    },
+    "done": true
+  },
   "croparia:recipes/croparia_crop/seed_crop_rawbeef": {
     "criteria": {
       "has_beef": "2025-01-02 01:38:53 +0000"
@@ -677,6 +684,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-02 02:58:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-02 02:37:03 +0000"
@@ -976,6 +989,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/skilltree/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-01-02 02:58:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-01-02 02:31:56 +0000"
@@ -1018,6 +1037,12 @@
       "has_ingot": "2025-01-02 02:10:56 +0000"
     },
     "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-01-02 02:52:35 +0000"
+    },
+    "done": false
   },
   "minecraft:story/iron_tools": {
     "criteria": {
@@ -1147,6 +1172,12 @@
     },
     "done": true
   },
+  "croparia:recipes/croparia_crop/seed_crop_rawchicken": {
+    "criteria": {
+      "has_chicken": "2025-01-02 02:58:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-01-02 02:10:56 +0000"
@@ -1184,6 +1215,7 @@
       "minecraft:river": "2025-01-02 01:42:11 +0000",
       "minecraft:forest": "2025-01-02 01:39:09 +0000",
       "minecraft:windswept_savanna": "2025-01-02 01:42:12 +0000",
+      "minecraft:flower_forest": "2025-01-02 03:00:31 +0000",
       "minecraft:savanna": "2025-01-02 01:35:14 +0000",
       "minecraft:plains": "2025-01-02 01:57:47 +0000"
     },
@@ -1341,6 +1373,13 @@
     },
     "done": true
   },
+  "croparia:recipes/crops/seed_crop_feather": {
+    "criteria": {
+      "has_feather": "2025-01-02 02:58:13 +0000",
+      "has_the_recipe": "2025-01-02 02:58:13 +0000"
+    },
+    "done": true
+  },
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2025-01-02 02:34:11 +0000"
@@ -1384,6 +1423,13 @@
     },
     "done": true
   },
+  "croparia:recipes/crops/seed_crop_rawchicken": {
+    "criteria": {
+      "has_chicken": "2025-01-02 02:58:13 +0000",
+      "has_the_recipe": "2025-01-02 02:58:13 +0000"
+    },
+    "done": true
+  },
   "croparia:recipes/croparia_crop/seed_crop_egg": {
     "criteria": {
       "has_egg": "2025-01-02 02:42:29 +0000"
@@ -1408,6 +1454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-02 02:58:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-02 02:37:03 +0000"
@@ -1429,6 +1481,12 @@
   "vampirism:recipes/vampirism/vampire/vampire_clothing_hat": {
     "criteria": {
       "has_wool": "2025-01-02 02:47:46 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/skilltree/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-01-02 02:58:13 +0000"
     },
     "done": true
   },
@@ -1855,6 +1913,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-01-02 02:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-02 02:58:13 +0000"
     },
     "done": true
   },
@@ -2310,6 +2374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-02 02:58:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-02 01:37:50 +0000"
@@ -2331,6 +2401,12 @@
   "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-02 02:37:03 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_feather": {
+    "criteria": {
+      "has_feather": "2025-01-02 02:58:13 +0000"
     },
     "done": true
   },
@@ -2705,6 +2781,13 @@
   "tconstruct:recipes/tconstruct/tools/tools/armor/travelers_shield": {
     "criteria": {
       "has_item": "2025-01-02 01:38:53 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_feather": {
+    "criteria": {
+      "has_feather": "2025-01-02 02:58:13 +0000",
+      "has_the_recipe": "2025-01-02 02:58:13 +0000"
     },
     "done": true
   },
