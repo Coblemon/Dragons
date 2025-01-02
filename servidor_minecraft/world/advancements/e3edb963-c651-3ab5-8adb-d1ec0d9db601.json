@@ -499,6 +499,13 @@
     },
     "done": true
   },
+  "croparia:recipes/croparia_crop/seed_crop_wither": {
+    "criteria": {
+      "has_wither_rose": "2025-01-02 02:49:58 +0000",
+      "has_the_recipe": "2025-01-02 02:49:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-01-02 02:43:01 +0000"
@@ -728,6 +735,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_wither": {
+    "criteria": {
+      "has_wither_rose": "2025-01-02 02:49:58 +0000"
     },
     "done": true
   },
@@ -1082,6 +1095,13 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-01-02 01:35:17 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/crops/seed_crop_wither": {
+    "criteria": {
+      "has_wither_rose": "2025-01-02 02:49:58 +0000",
+      "has_the_recipe": "2025-01-02 02:49:58 +0000"
     },
     "done": true
   },
@@ -1574,6 +1594,12 @@
     "criteria": {
       "has_bone": "2025-01-02 01:35:57 +0000",
       "has_the_recipe": "2025-01-02 01:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-02 02:49:58 +0000"
     },
     "done": true
   },
