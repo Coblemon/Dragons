@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_remover": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-01-02 01:44:08 +0000"
@@ -38,6 +44,18 @@
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
     },
     "done": true
   },
@@ -77,6 +95,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/sentry": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "bunker_down:first_joined_world": {
     "criteria": {
       "first_joined_world": "2025-01-02 01:35:17 +0000"
@@ -86,6 +110,12 @@
   "vampirism:recipes/vampirism/general/fire_place": {
     "criteria": {
       "has_logs": "2025-01-02 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -131,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-01-02 01:37:41 +0000"
@@ -149,9 +185,22 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-01-02 01:35:24 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/crops/seed_crop_redstone": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000",
+      "has_the_recipe": "2025-01-02 02:09:39 +0000"
     },
     "done": true
   },
@@ -180,9 +229,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/track_mine": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-01-02 01:39:31 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/big_console_lever": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -201,6 +262,12 @@
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
       "has_cobweb": "2025-01-02 01:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -226,6 +293,30 @@
     "criteria": {
       "has_leather": "2025-01-02 01:39:50 +0000",
       "has_the_recipe": "2025-01-02 01:39:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/blacklist_module": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/speed_module": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/electrified_iron_fence": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/harming_module": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -260,6 +351,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/lamp_button": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:10:53 +0000",
+      "has_the_recipe": "2025-01-02 02:10:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-01-02 01:54:53 +0000"
@@ -272,15 +382,52 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/redstone_torch_button": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_redstone": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000",
+      "has_the_recipe": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-01-02 01:39:09 +0000"
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/iron_button": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "croparia:recipes/croparia_crop/seed_crop_apple": {
     "criteria": {
       "has_apple": "2025-01-02 02:01:32 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -309,6 +456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "croparia:recipes/croparia_crop/seed_crop_rawmutton": {
     "criteria": {
       "has_the_recipe": "2025-01-02 01:44:08 +0000",
@@ -334,9 +487,21 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/redstone_torch_lever": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/oak_plank_secret_button": {
     "criteria": {
       "has_thing": "2025-01-02 01:54:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/taser": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
     },
     "done": true
   },
@@ -347,9 +512,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-01-02 01:35:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/redstone_module": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -396,9 +573,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-01-02 01:35:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/security_camera": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -433,9 +622,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -469,6 +670,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-01-02 01:39:09 +0000"
@@ -487,9 +694,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/blood_infused_iron_ingot": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/grave_cage": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-02 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-02 02:14:32 +0000"
     },
     "done": true
   },
@@ -505,6 +736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-02 01:39:09 +0000"
@@ -514,6 +751,12 @@
   "vampirism:recipes/vampirism/cursed_spruce_boat": {
     "criteria": {
       "in_water": "2025-01-02 01:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
     },
     "done": true
   },
@@ -529,6 +772,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/console_button": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-01-02 01:54:49 +0000"
@@ -538,6 +787,12 @@
   "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-01-02 01:38:00 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/copper_iron_chest": {
+    "criteria": {
+      "has_item": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -560,6 +815,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-01-02 01:37:52 +0000"
@@ -575,6 +842,18 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-02 01:39:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/candelabra_candles": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/storage_module": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -603,9 +882,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-01-02 01:35:54 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/console_lever": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -615,9 +906,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/hunter/item_med_chair": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/alchemy_table": {
     "criteria": {
       "has_planks": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
     },
     "done": true
   },
@@ -658,6 +961,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/big_console_button": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "croparia:recipes/crops/seed_crop_leather": {
     "criteria": {
       "has_leather": "2025-01-02 01:39:50 +0000",
@@ -677,15 +986,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "usefulbackpacks:recipes/backpack_medium": {
     "criteria": {
       "has_small_backpack": "2025-01-02 01:58:56 +0000"
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/large_console_button": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/blood_infused_enhanced_iron_ingot": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-02 01:39:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/iron_platform": {
+    "criteria": {
+      "has_bars": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -704,6 +1037,12 @@
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-01-02 01:37:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
     },
     "done": true
   },
@@ -744,6 +1083,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/claymore": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-01-02 01:40:34 +0000"
@@ -774,6 +1119,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv1": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-01-02 01:41:20 +0000"
@@ -798,6 +1155,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "croparia:recipes/crops/seed_crop_rawmutton": {
     "criteria": {
       "has_the_recipe": "2025-01-02 01:44:08 +0000",
@@ -817,15 +1180,45 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/hunter/alchemical_cauldron": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/garlic_finder": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-01-02 02:06:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "goldenhopper:recipes/redstone/golden_hopper": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
     },
     "done": true
   },
@@ -838,6 +1231,18 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-01-02 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv3": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -865,6 +1270,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "croparia:recipes/misc/seed_crop_feather": {
     "criteria": {
       "has_feather": "2025-01-02 01:40:08 +0000"
@@ -875,6 +1286,12 @@
     "criteria": {
       "has_oak_sapling": "2025-01-02 01:38:52 +0000",
       "has_the_recipe": "2025-01-02 01:38:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
     },
     "done": true
   },
@@ -896,6 +1313,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/hunter/crossbow_arrow_normal": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-01-02 01:38:50 +0000"
@@ -909,15 +1332,45 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-01-02 01:35:18 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-01-02 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/smart_module": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
     },
     "done": true
   },
@@ -930,6 +1383,18 @@
   "vampirism:recipes/vampirism/general/vampire_rack": {
     "criteria": {
       "has_planks": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_change_detector": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -970,9 +1435,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-01-02 01:35:57 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/large_console_lever": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -1013,6 +1490,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-01-02 01:44:08 +0000"
@@ -1034,6 +1523,24 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-02 01:54:49 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/lamp": {
+    "criteria": {
+      "has_planks": "2025-01-02 02:10:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/iron_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -1061,10 +1568,40 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/trophy_system": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-01-02 01:35:17 +0000",
       "has_cracked_stone_bricks": "2025-01-02 01:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-02 02:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/altar_tip": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/camera_monitor": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -1077,6 +1614,18 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-01-02 01:54:49 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/blood_container": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -1099,12 +1648,31 @@
       "minecraft:sparse_jungle": "2025-01-02 02:06:08 +0000",
       "minecraft:river": "2025-01-02 01:42:23 +0000",
       "minecraft:forest": "2025-01-02 01:40:12 +0000",
+      "minecraft:lush_caves": "2025-01-02 02:09:04 +0000",
       "minecraft:desert": "2025-01-02 02:06:57 +0000",
       "minecraft:jungle": "2025-01-02 02:06:44 +0000",
       "minecraft:savanna": "2025-01-02 01:35:18 +0000",
       "minecraft:plains": "2025-01-02 01:45:39 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_redstone": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
   },
   "pizzacraft:root": {
     "criteria": {
@@ -1124,6 +1692,25 @@
     },
     "done": true
   },
+  "croparia:recipes/crops/seed_crop_iron": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 02:12:31 +0000",
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/whitelist_module": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/skilltree/armored_quiver": {
+    "criteria": {
+      "has_ingots_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-01-02 01:39:09 +0000"
@@ -1134,6 +1721,13 @@
     "criteria": {
       "has_the_recipe": "2025-01-02 01:45:19 +0000",
       "has_egg": "2025-01-02 01:45:19 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_iron": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 02:12:31 +0000",
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -1155,6 +1749,18 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/small_console_button": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/small_console_lever": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-01-02 01:39:09 +0000"
@@ -1164,6 +1770,12 @@
   "vampirism:recipes/vampirism/dark_spruce_boat": {
     "criteria": {
       "in_water": "2025-01-02 01:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -1217,6 +1829,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/mine": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/pattern": {
     "criteria": {
       "has_item": "2025-01-02 01:38:00 +0000"
@@ -1226,6 +1850,12 @@
   "vampirism:recipes/vampirism/alchemy_table/plant_oil": {
     "criteria": {
       "has_wheat_seeds": "2025-01-02 01:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -1298,9 +1928,33 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/iron_large_button": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/briefcase": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/altar_cleansing_new": {
     "criteria": {
       "has_book": "2025-01-02 02:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -1329,6 +1983,25 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/lamp_lever": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:10:53 +0000",
+      "has_the_recipe": "2025-01-02 02:10:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/weapon_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_item": "2025-01-02 01:37:52 +0000"
@@ -1344,6 +2017,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-01-02 01:40:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/weapontable/crucifix_enhanced": {
+    "criteria": {
+      "iron": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
@@ -1371,9 +2050,21 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/tombstone2": {
     "criteria": {
       "has_coble": "2025-01-02 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/alarm": {
+    "criteria": {
+      "has_redstone": "2025-01-02 02:09:39 +0000"
     },
     "done": true
   },
@@ -1386,6 +2077,18 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/letter_button": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/disguise_module": {
+    "criteria": {
+      "has_iron": "2025-01-02 02:12:31 +0000"
     },
     "done": true
   },
