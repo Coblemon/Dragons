@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-02 02:02:13 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2025-01-02 01:35:17 +0000"
@@ -56,6 +62,12 @@
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2025-01-02 01:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-02 02:03:49 +0000"
     },
     "done": true
   },
@@ -146,6 +158,13 @@
   "skilltree:recipes/skilltree/bone_quiver": {
     "criteria": {
       "has_bone": "2025-01-02 01:35:57 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_bread": {
+    "criteria": {
+      "has_bread": "2025-01-02 02:01:30 +0000",
+      "has_the_recipe": "2025-01-02 02:01:30 +0000"
     },
     "done": true
   },
@@ -259,6 +278,12 @@
     },
     "done": true
   },
+  "croparia:recipes/croparia_crop/seed_crop_apple": {
+    "criteria": {
+      "has_apple": "2025-01-02 02:01:32 +0000"
+    },
+    "done": true
+  },
   "croparia:recipes/croparia_crop/seed_crop_rawbeef": {
     "criteria": {
       "has_beef": "2025-01-02 01:39:50 +0000"
@@ -288,6 +313,12 @@
     "criteria": {
       "has_the_recipe": "2025-01-02 01:44:08 +0000",
       "has_mutton": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-02 02:02:13 +0000"
     },
     "done": true
   },
@@ -390,6 +421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-02 02:02:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-01-02 01:37:52 +0000"
@@ -435,6 +472,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-01-02 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-02 02:03:49 +0000"
     },
     "done": true
   },
@@ -495,6 +538,13 @@
   "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-01-02 01:38:00 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/crops/seed_crop_apple": {
+    "criteria": {
+      "has_apple": "2025-01-02 02:01:32 +0000",
+      "has_the_recipe": "2025-01-02 02:01:32 +0000"
     },
     "done": true
   },
@@ -595,6 +645,13 @@
     },
     "done": true
   },
+  "croparia:recipes/crops/seed_crop_bread": {
+    "criteria": {
+      "has_bread": "2025-01-02 02:01:30 +0000",
+      "has_the_recipe": "2025-01-02 02:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-01-02 01:44:08 +0000"
@@ -660,6 +717,12 @@
   "infinitybuttons:recipe/redstone/torch_button": {
     "criteria": {
       "has_thing": "2025-01-02 01:39:31 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_bread": {
+    "criteria": {
+      "has_bread": "2025-01-02 02:01:30 +0000"
     },
     "done": true
   },
@@ -754,6 +817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-02 02:06:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-02 01:44:08 +0000"
@@ -775,6 +844,12 @@
   "vampirism:recipes/vampirism/general/altar_cleansing": {
     "criteria": {
       "has_vampire_book": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/punji": {
+    "criteria": {
+      "has_item": "2025-01-02 02:06:46 +0000"
     },
     "done": true
   },
@@ -827,6 +902,13 @@
     },
     "done": true
   },
+  "croparia:recipes/misc/seed_crop_apple": {
+    "criteria": {
+      "has_apple": "2025-01-02 02:01:32 +0000",
+      "has_the_recipe": "2025-01-02 02:01:32 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-01-02 01:35:18 +0000"
@@ -836,6 +918,12 @@
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-01-02 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-02 02:02:13 +0000"
     },
     "done": true
   },
@@ -1006,9 +1094,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2025-01-02 02:07:48 +0000",
       "minecraft:beach": "2025-01-02 01:35:24 +0000",
+      "minecraft:sparse_jungle": "2025-01-02 02:06:08 +0000",
       "minecraft:river": "2025-01-02 01:42:23 +0000",
       "minecraft:forest": "2025-01-02 01:40:12 +0000",
+      "minecraft:desert": "2025-01-02 02:06:57 +0000",
+      "minecraft:jungle": "2025-01-02 02:06:44 +0000",
       "minecraft:savanna": "2025-01-02 01:35:18 +0000",
       "minecraft:plains": "2025-01-02 01:45:39 +0000"
     },
@@ -1054,6 +1146,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-01-02 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/food/general/garlic_bread": {
+    "criteria": {
+      "has_bread": "2025-01-02 02:01:30 +0000"
     },
     "done": true
   },
@@ -1197,6 +1295,18 @@
     "criteria": {
       "has_porkchop": "2025-01-02 01:40:34 +0000",
       "has_the_recipe": "2025-01-02 01:40:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/altar_cleansing_new": {
+    "criteria": {
+      "has_book": "2025-01-02 02:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-02 02:06:46 +0000"
     },
     "done": true
   },
