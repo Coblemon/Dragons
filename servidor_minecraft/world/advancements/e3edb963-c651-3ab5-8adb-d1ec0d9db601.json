@@ -5,21 +5,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
-      "has_stick": "2025-01-02 01:38:00 +0000"
+      "has_mutton": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-02 01:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-01-02 01:39:09 +0000"
-    },
-    "done": true
-  },
-  "croparia:recipes/misc/seed_crop_leather": {
-    "criteria": {
-      "has_leather": "2025-01-02 01:39:50 +0000"
     },
     "done": true
   },
@@ -53,9 +59,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
-      "has_string": "2025-01-02 01:35:41 +0000"
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
     },
     "done": true
   },
@@ -71,21 +77,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:37:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-01-02 01:39:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:37:52 +0000"
     },
     "done": true
   },
@@ -95,21 +89,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-01-02 01:38:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
+  "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
-      "has_stick": "2025-01-02 01:38:00 +0000"
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
     },
     "done": true
   },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-01-02 01:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-01-02 01:38:00 +0000"
     },
     "done": true
   },
@@ -161,27 +167,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/sc_manual": {
+  "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
-      "has_wood": "2025-01-02 01:37:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-01-02 01:37:41 +0000"
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
     },
     "done": true
   },
   "portablemobs:recipes/portablemobs/basic_capture_cell": {
     "criteria": {
       "recipe_condition": "2025-01-02 01:38:00 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/vampirism/general/altar_cleansing": {
-    "criteria": {
-      "has_vampire_book": "2025-01-02 01:37:52 +0000"
     },
     "done": true
   },
@@ -192,12 +186,6 @@
     "done": true
   },
   "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:37:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-02 01:37:52 +0000"
     },
@@ -215,41 +203,10 @@
     },
     "done": true
   },
-  "croparia:recipes/croparia_crop/seed_crop_oak": {
-    "criteria": {
-      "has_oak_sapling": "2025-01-02 01:38:52 +0000",
-      "has_the_recipe": "2025-01-02 01:38:52 +0000"
-    },
-    "done": true
-  },
   "croparia:recipes/croparia_crop/seed_crop_leather": {
     "criteria": {
       "has_leather": "2025-01-02 01:39:50 +0000",
       "has_the_recipe": "2025-01-02 01:39:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2025-01-02 01:38:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2025-01-02 01:39:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-01-02 01:38:50 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-01-02 01:35:18 +0000"
     },
     "done": true
   },
@@ -260,9 +217,21 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+  "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
-      "has_cobblestone": "2025-01-02 01:39:09 +0000"
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-02 01:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-02 01:41:20 +0000"
     },
     "done": true
   },
@@ -272,11 +241,11 @@
     },
     "done": true
   },
-  "vampirism:recipes/vampirism/general/vampire_rack": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "has_planks": "2025-01-02 01:37:52 +0000"
+      "cooked_beef": "2025-01-02 01:54:53 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -290,40 +259,16 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:37:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-01-02 01:35:41 +0000"
-    },
-    "done": true
-  },
-  "croparia:recipes/crops/seed_crop_bone": {
-    "criteria": {
-      "has_bone": "2025-01-02 01:35:57 +0000",
-      "has_the_recipe": "2025-01-02 01:35:57 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/vampirism/vampire/candelabra": {
-    "criteria": {
-      "has_string": "2025-01-02 01:35:41 +0000"
-    },
-    "done": true
-  },
   "croparia:recipes/croparia_crop/seed_crop_rawbeef": {
     "criteria": {
       "has_beef": "2025-01-02 01:39:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal": {
+  "croparia:recipes/misc/seed_crop_rawchicken": {
     "criteria": {
-      "has_bone": "2025-01-02 01:35:57 +0000"
+      "has_chicken": "2025-01-02 01:40:08 +0000",
+      "has_the_recipe": "2025-01-02 01:40:08 +0000"
     },
     "done": true
   },
@@ -339,6 +284,13 @@
     },
     "done": true
   },
+  "croparia:recipes/croparia_crop/seed_crop_rawmutton": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 01:44:08 +0000",
+      "has_mutton": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/skilltree/assassin_necklace": {
     "criteria": {
       "has_bone": "2025-01-02 01:35:57 +0000"
@@ -351,16 +303,16 @@
     },
     "done": true
   },
-  "croparia:recipes/misc/seed_crop_rawbeef": {
+  "infinitybuttons:recipe/redstone/oak_plank_secret_button": {
     "criteria": {
-      "has_beef": "2025-01-02 01:39:50 +0000",
-      "has_the_recipe": "2025-01-02 01:39:50 +0000"
+      "has_thing": "2025-01-02 01:54:48 +0000"
     },
     "done": true
   },
-  "usefulbackpacks:recipes/filter_configurator": {
+  "croparia:recipes/misc/seed_crop_egg": {
     "criteria": {
-      "has_leather": "2025-01-02 01:39:50 +0000"
+      "has_the_recipe": "2025-01-02 01:45:19 +0000",
+      "has_egg": "2025-01-02 01:45:19 +0000"
     },
     "done": true
   },
@@ -370,27 +322,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "minecraft:recipes/decorations/white_banner": {
     "criteria": {
-      "has_log": "2025-01-02 01:38:50 +0000"
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
     },
     "done": true
   },
-  "paraglider:recipes/paraglider/paraglider": {
+  "vampirism:recipes/vampirism/vampire/coffin_white": {
     "criteria": {
-      "has_stick": "2025-01-02 01:38:00 +0000"
+      "has_wool": "2025-01-02 01:44:08 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "usefulbackpacks:recipes/filter_tag": {
     "criteria": {
-      "crafting_table": "2025-01-02 01:37:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_string": "2025-01-02 01:35:41 +0000"
+      "has_small_backpack": "2025-01-02 01:58:56 +0000"
     },
     "done": true
   },
@@ -425,15 +371,22 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
-      "has_leather": "2025-01-02 01:39:50 +0000"
+      "has_chicken": "2025-01-02 01:40:08 +0000"
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/acacia_plank_secret_button": {
+  "croparia:recipes/croparia_crop/seed_crop_rawporc": {
     "criteria": {
-      "has_thing": "2025-01-02 01:37:52 +0000"
+      "has_porkchop": "2025-01-02 01:40:34 +0000",
+      "has_the_recipe": "2025-01-02 01:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:54:49 +0000"
     },
     "done": true
   },
@@ -443,34 +396,27 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_diorite": {
-    "criteria": {
-      "has_cobblestone": "2025-01-02 01:39:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2025-01-02 01:37:41 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
-    "criteria": {
-      "has_recipe": "2025-01-02 01:35:17 +0000",
-      "has_cracked_stone_bricks": "2025-01-02 01:35:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-01-02 01:37:52 +0000"
     },
     "done": true
   },
+  "croparia:recipes/crops/seed_crop_rawporc": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 01:40:34 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:root": {
     "criteria": {
       "show": "2025-01-02 01:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
     },
     "done": true
   },
@@ -492,34 +438,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2025-01-02 01:39:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-01-02 01:39:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-01-02 01:39:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:beach": "2025-01-02 01:35:24 +0000",
-      "minecraft:savanna": "2025-01-02 01:35:18 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-02 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
     },
     "done": true
   },
@@ -541,15 +474,9 @@
     },
     "done": true
   },
-  "pizzacraft:root": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "tick": "2025-01-02 01:35:17 +0000"
-    },
-    "done": true
-  },
-  "croparia:recipes/misc/seed_crop_bone": {
-    "criteria": {
-      "has_bone": "2025-01-02 01:35:57 +0000"
+      "consumed_item": "2025-01-02 01:54:53 +0000"
     },
     "done": true
   },
@@ -559,21 +486,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
+  "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
-      "has_cobblestone": "2025-01-02 01:39:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:37:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2025-01-02 01:39:09 +0000"
+      "has_planks": "2025-01-02 01:54:49 +0000"
     },
     "done": true
   },
@@ -589,15 +504,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_cobblestone": "2025-01-02 01:39:09 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/vampirism/dark_spruce_boat": {
-    "criteria": {
-      "in_water": "2025-01-02 01:35:24 +0000"
+      "has_raw_copper": "2025-01-02 01:46:09 +0000"
     },
     "done": true
   },
@@ -607,53 +516,15 @@
     },
     "done": true
   },
-  "croparia:recipes/croparia_crop/seed_crop_string": {
+  "croparia:recipes/misc/seed_crop_rawmutton": {
     "criteria": {
-      "has_string": "2025-01-02 01:35:41 +0000",
-      "has_the_recipe": "2025-01-02 01:35:41 +0000"
+      "has_mutton": "2025-01-02 01:44:08 +0000"
     },
     "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-02 01:39:49 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass": {
-    "criteria": {
-      "has_recipe": "2025-01-02 01:35:17 +0000",
-      "has_compass": "2025-01-02 01:35:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-01-02 01:39:50 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/motion_activated_light": {
-    "criteria": {
-      "has_stick": "2025-01-02 01:38:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-01-02 01:35:24 +0000"
-    },
-    "done": true
-  },
-  "ironfurnaces:coal": {
-    "criteria": {
-      "rainbowcoal": "2025-01-02 01:35:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-01-02 01:39:09 +0000"
     },
     "done": true
   },
@@ -670,18 +541,6 @@
     },
     "done": true
   },
-  "vampirism:recipes/vampirism/alchemy_table/plant_oil": {
-    "criteria": {
-      "has_wheat_seeds": "2025-01-02 01:39:01 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/tconstruct/general/tables/pattern": {
-    "criteria": {
-      "has_item": "2025-01-02 01:38:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-02 01:35:41 +0000"
@@ -694,39 +553,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-01-02 01:35:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-01-02 01:35:54 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/vampirism/hunter/crucifix": {
-    "criteria": {
-      "planks": "2025-01-02 01:37:52 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/tconstruct/tools/tools/armor/travelers_shield": {
-    "criteria": {
-      "has_item": "2025-01-02 01:39:50 +0000"
-    },
-    "done": true
-  },
-  "usefulbackpacks:recipes/backpack_small": {
-    "criteria": {
-      "has_leather": "2025-01-02 01:39:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:37:52 +0000"
     },
     "done": true
   },
@@ -742,9 +571,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/vampirism/vampire/chandelier": {
+  "minecraft:recipes/food/baked_potato": {
     "criteria": {
-      "has_string": "2025-01-02 01:35:41 +0000"
+      "has_potato": "2025-01-02 01:35:54 +0000"
     },
     "done": true
   },
@@ -754,9 +583,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
-      "has_potato": "2025-01-02 01:35:54 +0000"
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-02 01:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-02 01:44:08 +0000"
     },
     "done": true
   },
@@ -767,15 +608,21 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/filter_item": {
+    "criteria": {
+      "has_small_backpack": "2025-01-02 01:58:56 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-01-02 01:35:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "usefulbackpacks:recipes/backpack_medium": {
     "criteria": {
-      "has_beef": "2025-01-02 01:39:50 +0000"
+      "has_small_backpack": "2025-01-02 01:58:56 +0000"
     },
     "done": true
   },
@@ -785,15 +632,9 @@
     },
     "done": true
   },
-  "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
+  "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
-      "has_item": "2025-01-02 01:37:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2025-01-02 01:37:52 +0000"
+      "has_planks": "2025-01-02 01:54:49 +0000"
     },
     "done": true
   },
@@ -803,21 +644,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_stick": "2025-01-02 01:38:00 +0000"
-    },
-    "done": true
-  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-01-02 01:37:55 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/vampirism/general/tombstone2": {
-    "criteria": {
-      "has_coble": "2025-01-02 01:39:09 +0000"
     },
     "done": true
   },
@@ -834,15 +663,619 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-02 01:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 01:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 01:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-02 01:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-01-02 01:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_leather": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-02 01:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-02 01:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/crops/seed_crop_rawmutton": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 01:44:08 +0000",
+      "has_mutton": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-01-02 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/altar_cleansing": {
+    "criteria": {
+      "has_vampire_book": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-02 01:40:08 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_feather": {
+    "criteria": {
+      "has_feather": "2025-01-02 01:40:08 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_oak": {
+    "criteria": {
+      "has_oak_sapling": "2025-01-02 01:38:52 +0000",
+      "has_the_recipe": "2025-01-02 01:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-01-02 01:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-01-02 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-01-02 01:38:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-01-02 01:35:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-01-02 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/vampire_rack": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-02 01:35:41 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/skilltree/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-01-02 01:40:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/candelabra": {
+    "criteria": {
+      "has_string": "2025-01-02 01:35:41 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/crops/seed_crop_bone": {
+    "criteria": {
+      "has_bone": "2025-01-02 01:35:57 +0000",
+      "has_the_recipe": "2025-01-02 01:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-02 01:35:57 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_rawbeef": {
+    "criteria": {
+      "has_beef": "2025-01-02 01:39:50 +0000",
+      "has_the_recipe": "2025-01-02 01:39:50 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_configurator": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 01:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-02 01:37:55 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/paraglider": {
+    "criteria": {
+      "has_stick": "2025-01-02 01:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-01-02 01:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 01:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:54:49 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/acacia_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-01-02 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-01-02 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-01-02 01:35:17 +0000",
+      "has_cracked_stone_bricks": "2025-01-02 01:35:17 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_rawchicken": {
+    "criteria": {
+      "has_chicken": "2025-01-02 01:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-02 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-02 01:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-01-02 01:35:24 +0000",
+      "minecraft:river": "2025-01-02 01:42:23 +0000",
+      "minecraft:forest": "2025-01-02 01:40:12 +0000",
+      "minecraft:savanna": "2025-01-02 01:35:18 +0000",
+      "minecraft:plains": "2025-01-02 01:45:39 +0000"
+    },
+    "done": false
+  },
+  "pizzacraft:root": {
+    "criteria": {
+      "tick": "2025-01-02 01:35:17 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_bone": {
+    "criteria": {
+      "has_bone": "2025-01-02 01:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-02 01:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-01-02 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/crops/seed_crop_egg": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 01:45:19 +0000",
+      "has_egg": "2025-01-02 01:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-01-02 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-02 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/dark_spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 01:35:24 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_string": {
+    "criteria": {
+      "has_string": "2025-01-02 01:35:41 +0000",
+      "has_the_recipe": "2025-01-02 01:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:54:49 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-01-02 01:35:17 +0000",
+      "has_compass": "2025-01-02 01:35:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2025-01-02 01:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:39:50 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-01-02 01:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 01:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-02 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/pattern": {
+    "criteria": {
+      "has_item": "2025-01-02 01:38:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-01-02 01:39:01 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/oak_large_button": {
+    "criteria": {
+      "has_thing": "2025-01-02 01:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 01:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/crucifix": {
+    "criteria": {
+      "planks": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/tools/armor/travelers_shield": {
+    "criteria": {
+      "has_item": "2025-01-02 01:39:50 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/crops/seed_crop_feather": {
+    "criteria": {
+      "has_feather": "2025-01-02 01:40:08 +0000",
+      "has_the_recipe": "2025-01-02 01:40:08 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_feather": {
+    "criteria": {
+      "has_feather": "2025-01-02 01:40:08 +0000",
+      "has_the_recipe": "2025-01-02 01:40:08 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_small": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/chandelier": {
+    "criteria": {
+      "has_string": "2025-01-02 01:35:41 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_rawporc": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 01:40:34 +0000",
+      "has_the_recipe": "2025-01-02 01:40:34 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/crops/seed_crop_rawchicken": {
+    "criteria": {
+      "has_chicken": "2025-01-02 01:40:08 +0000",
+      "has_the_recipe": "2025-01-02 01:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-02 01:39:50 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_egg": {
+    "criteria": {
+      "has_egg": "2025-01-02 01:45:19 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_item": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-02 01:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-02 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2025-01-02 01:38:00 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/skilltree/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-01-02 01:40:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/tombstone2": {
+    "criteria": {
+      "has_coble": "2025-01-02 01:39:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-01-02 01:39:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+  "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
-      "has_potato": "2025-01-02 01:35:54 +0000"
+      "has_mutton": "2025-01-02 01:44:08 +0000"
     },
     "done": true
   },
