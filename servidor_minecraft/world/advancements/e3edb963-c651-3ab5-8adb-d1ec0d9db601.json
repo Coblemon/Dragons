@@ -29,6 +29,13 @@
     },
     "done": true
   },
+  "croparia:recipes/misc/seed_crop_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-02 02:41:43 +0000",
+      "has_the_recipe": "2025-01-02 02:41:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-01-02 01:39:09 +0000"
@@ -113,6 +120,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/diorite_button": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 02:12:31 +0000"
@@ -146,6 +159,18 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-01-02 01:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-02 02:40:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-02 02:43:01 +0000"
     },
     "done": true
   },
@@ -339,6 +364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-01-02 02:41:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-01-02 01:41:20 +0000"
@@ -385,6 +416,18 @@
   "infinitybuttons:recipe/redstone/redstone_torch_button": {
     "criteria": {
       "has_thing": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2025-01-02 02:41:32 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/diorite_large_button": {
+    "criteria": {
+      "has_thing": "2025-01-02 02:43:01 +0000"
     },
     "done": true
   },
@@ -453,6 +496,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-02 01:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-01-02 02:43:01 +0000"
     },
     "done": true
   },
@@ -542,6 +591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-02 02:43:01 +0000"
+    },
+    "done": true
+  },
   "usefulbackpacks:recipes/filter_tag": {
     "criteria": {
       "has_small_backpack": "2025-01-02 01:58:56 +0000"
@@ -567,9 +622,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-02 02:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-01-02 01:39:50 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/crops/seed_crop_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-02 02:41:43 +0000"
     },
     "done": true
   },
@@ -649,6 +716,12 @@
   "infinitybuttons:root": {
     "criteria": {
       "show": "2025-01-02 01:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-02 02:43:01 +0000"
     },
     "done": true
   },
@@ -733,6 +806,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-02 01:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-02 02:41:49 +0000"
     },
     "done": true
   },
@@ -870,6 +949,13 @@
     },
     "done": true
   },
+  "croparia:recipes/crops/seed_crop_rawrabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-02 02:41:49 +0000",
+      "has_the_recipe": "2025-01-02 02:41:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-02 01:35:41 +0000"
@@ -893,6 +979,19 @@
       "has_potato": "2025-01-02 01:35:54 +0000"
     },
     "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_hide": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-02 02:41:50 +0000",
+      "has_the_recipe": "2025-01-02 02:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-01-02 02:41:42 +0000"
+    },
+    "done": false
   },
   "infinitybuttons:recipe/redstone/console_lever": {
     "criteria": {
@@ -1143,6 +1242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-02 02:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-01-02 01:35:41 +0000"
@@ -1174,6 +1279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-02 02:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-01-02 01:44:08 +0000"
@@ -1192,9 +1303,34 @@
     },
     "done": true
   },
+  "croparia:recipes/misc/seed_crop_hide": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-02 02:41:50 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_rawrabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-02 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/crops/seed_crop_hide": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-02 02:41:50 +0000",
+      "has_the_recipe": "2025-01-02 02:41:50 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/garlic_finder": {
     "criteria": {
       "has_redstone": "2025-01-02 02:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-02 02:41:50 +0000"
     },
     "done": true
   },
@@ -1338,6 +1474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-01-02 02:43:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-01-02 01:35:18 +0000"
@@ -1398,6 +1540,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-01-02 02:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-02 01:37:52 +0000"
@@ -1450,6 +1598,12 @@
   "infinitybuttons:recipe/redstone/large_console_lever": {
     "criteria": {
       "has_thing": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2025-01-02 02:43:01 +0000"
     },
     "done": true
   },
@@ -1532,6 +1686,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-02 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-02 02:41:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-01-02 02:09:39 +0000"
@@ -1593,6 +1759,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-01-02 02:41:42 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/altar_tip": {
     "criteria": {
       "has_iron": "2025-01-02 02:12:31 +0000"
@@ -1623,9 +1795,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-01-02 02:43:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-02 02:41:43 +0000",
+      "has_the_recipe": "2025-01-02 02:41:43 +0000"
     },
     "done": true
   },
@@ -1758,6 +1943,12 @@
   "infinitybuttons:recipe/redstone/small_console_lever": {
     "criteria": {
       "has_thing": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-02 02:41:43 +0000"
     },
     "done": true
   },
@@ -1964,6 +2155,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-01-02 02:40:24 +0000"
+    },
+    "done": true
+  },
   "croparia:recipes/crops/seed_crop_rawchicken": {
     "criteria": {
       "has_chicken": "2025-01-02 01:40:08 +0000",
@@ -1987,6 +2184,12 @@
     "criteria": {
       "has_thing": "2025-01-02 02:10:53 +0000",
       "has_the_recipe": "2025-01-02 02:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-01-02 02:43:01 +0000"
     },
     "done": true
   },
@@ -2089,6 +2292,19 @@
   "securitycraft:recipes/securitycraft/disguise_module": {
     "criteria": {
       "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/diorite_button_stonecutter": {
+    "criteria": {
+      "has_diorite": "2025-01-02 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_rawrabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-02 02:41:49 +0000",
+      "has_the_recipe": "2025-01-02 02:41:49 +0000"
     },
     "done": true
   },
