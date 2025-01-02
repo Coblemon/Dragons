@@ -644,7 +644,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-02 03:02:50 +0000",
-      "minecraft:spider": "2025-01-02 02:41:42 +0000"
+      "minecraft:spider": "2025-01-02 02:41:42 +0000",
+      "minecraft:husk": "2025-01-02 17:01:21 +0000"
     },
     "done": false
   },
@@ -718,6 +719,12 @@
     "criteria": {
       "has_leather": "2025-01-02 01:39:50 +0000",
       "has_the_recipe": "2025-01-02 01:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-02 17:28:07 +0000"
     },
     "done": true
   },
@@ -837,6 +844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-01-02 17:28:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-02 02:56:48 +0000"
@@ -858,6 +871,18 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-01-02 02:53:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-02 17:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-02 17:28:17 +0000"
     },
     "done": true
   },
@@ -1031,6 +1056,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 17:16:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-01-02 02:56:36 +0000"
@@ -1183,6 +1214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-02 17:28:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/deepslate_copper_mine": {
     "criteria": {
       "has_mine": "2025-01-02 03:03:23 +0000"
@@ -1302,6 +1339,7 @@
       "minecraft:lush_caves": "2025-01-02 02:09:04 +0000",
       "minecraft:desert": "2025-01-02 02:06:57 +0000",
       "minecraft:jungle": "2025-01-02 02:06:44 +0000",
+      "minecraft:warm_ocean": "2025-01-02 17:31:07 +0000",
       "minecraft:savanna": "2025-01-02 01:35:18 +0000",
       "minecraft:plains": "2025-01-02 01:45:39 +0000"
     },
@@ -1377,6 +1415,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-02 02:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-02 17:28:17 +0000"
     },
     "done": true
   },
@@ -1614,9 +1658,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-02 17:28:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/disguise_module": {
     "criteria": {
       "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_large": {
+    "criteria": {
+      "has_medium_backpack": "2025-01-02 17:05:13 +0000"
     },
     "done": true
   },
@@ -1801,6 +1857,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 17:16:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-02 01:35:24 +0000"
@@ -1869,6 +1931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-02 17:28:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-01-02 01:41:20 +0000"
@@ -1903,6 +1971,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-01-02 01:54:53 +0000",
+      "bread": "2025-01-02 17:09:13 +0000",
       "enchanted_golden_apple": "2025-01-02 03:01:47 +0000"
     },
     "done": false
@@ -2026,6 +2095,12 @@
   "securitycraft:recipes/securitycraft/coal_mine": {
     "criteria": {
       "has_mine": "2025-01-02 03:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-01-02 17:28:07 +0000"
     },
     "done": true
   },
@@ -2317,6 +2392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-02 17:28:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-02 02:52:35 +0000"
@@ -2367,6 +2448,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-01-02 17:16:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-01-02 01:39:09 +0000"
@@ -2404,9 +2491,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-01-02 17:22:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/lapis_mine": {
     "criteria": {
       "has_mine": "2025-01-02 03:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-01-02 17:28:07 +0000"
     },
     "done": true
   },
@@ -2454,6 +2553,12 @@
     },
     "done": true
   },
+  "infinitybuttons:recipe/redstone/granite_large_button": {
+    "criteria": {
+      "has_thing": "2025-01-02 17:28:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-01-02 02:56:06 +0000"
@@ -2487,6 +2592,12 @@
   "tconstruct:recipes/tconstruct/general/common/iron_platform": {
     "criteria": {
       "has_bars": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-02 17:28:07 +0000"
     },
     "done": true
   },
@@ -2583,6 +2694,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-02 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 17:23:46 +0000"
     },
     "done": true
   },
@@ -2763,6 +2880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-02 17:28:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl2": {
     "criteria": {
       "has_redstone": "2025-01-02 02:09:39 +0000"
@@ -2850,6 +2973,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-01-02 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/granite_button_stonecutter": {
+    "criteria": {
+      "has_granite": "2025-01-02 17:28:07 +0000"
     },
     "done": true
   },
@@ -3099,6 +3228,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-02 17:27:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2025-01-02 02:12:31 +0000"
@@ -3191,6 +3326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-01-02 17:28:07 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/iron_large_button": {
     "criteria": {
       "has_thing": "2025-01-02 02:12:31 +0000"
@@ -3280,6 +3421,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-01-02 01:38:00 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/granite_button": {
+    "criteria": {
+      "has_thing": "2025-01-02 17:28:07 +0000"
     },
     "done": true
   },
