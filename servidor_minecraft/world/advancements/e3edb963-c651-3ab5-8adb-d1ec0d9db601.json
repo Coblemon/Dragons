@@ -715,6 +715,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-03 16:29:08 +0000"
+    },
+    "done": true
+  },
   "croparia:recipes/croparia_crop/seed_crop_oak": {
     "criteria": {
       "has_oak_sapling": "2025-01-02 01:38:52 +0000",
@@ -1022,6 +1028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-03 16:17:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 02:51:16 +0000"
@@ -1038,6 +1050,12 @@
     "criteria": {
       "has_feather": "2025-01-02 01:40:08 +0000",
       "has_the_recipe": "2025-01-02 01:40:08 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-01-03 16:34:14 +0000"
     },
     "done": true
   },
@@ -3744,6 +3762,12 @@
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2025-01-02 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-03 16:32:45 +0000"
     },
     "done": true
   },
