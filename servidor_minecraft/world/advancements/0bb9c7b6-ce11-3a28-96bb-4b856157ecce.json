@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "croparia:recipes/crops/seed_crop_oak": {
+    "criteria": {
+      "has_oak_sapling": "2025-01-03 03:11:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-01-03 00:48:18 +0000"
@@ -170,6 +176,18 @@
   "vampirism:recipes/vampirism/hunter/potion_table": {
     "criteria": {
       "has_glass_bottle": "2025-01-03 01:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-03 03:13:43 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_bread": {
+    "criteria": {
+      "has_bread": "2025-01-03 03:33:38 +0000"
     },
     "done": true
   },
@@ -194,6 +212,13 @@
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 01:26:50 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_powder": {
+    "criteria": {
+      "has_gunpowder": "2025-01-03 03:13:03 +0000",
+      "has_the_recipe": "2025-01-03 03:13:03 +0000"
     },
     "done": true
   },
@@ -305,6 +330,18 @@
     "criteria": {
       "has_the_recipe": "2025-01-03 00:55:37 +0000",
       "has_mutton": "2025-01-03 00:55:37 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/red_sand_large_button": {
+    "criteria": {
+      "has_thing": "2025-01-03 03:13:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-01-03 03:34:08 +0000"
     },
     "done": true
   },
@@ -456,6 +493,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-03 03:15:30 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/andesite_large_button": {
     "criteria": {
       "has_thing": "2025-01-03 01:01:47 +0000"
@@ -477,6 +520,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-03 01:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-03 03:11:39 +0000"
     },
     "done": true
   },
@@ -568,6 +617,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-03 01:24:47 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/red_sand_button": {
+    "criteria": {
+      "has_thing": "2025-01-03 03:13:43 +0000"
     },
     "done": true
   },
@@ -798,6 +853,13 @@
     },
     "done": true
   },
+  "croparia:recipes/croparia_crop/seed_crop_oak": {
+    "criteria": {
+      "has_oak_sapling": "2025-01-03 03:11:53 +0000",
+      "has_the_recipe": "2025-01-03 03:11:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-01-03 00:55:37 +0000"
@@ -998,6 +1060,13 @@
     },
     "done": true
   },
+  "croparia:recipes/crops/seed_crop_powder": {
+    "criteria": {
+      "has_gunpowder": "2025-01-03 03:13:03 +0000",
+      "has_the_recipe": "2025-01-03 03:13:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-03 01:26:50 +0000"
@@ -1020,9 +1089,11 @@
     "criteria": {
       "minecraft:bamboo_jungle": "2025-01-03 01:55:18 +0000",
       "minecraft:wooded_badlands": "2025-01-03 01:55:42 +0000",
+      "minecraft:beach": "2025-01-03 03:32:18 +0000",
       "minecraft:sparse_jungle": "2025-01-03 02:54:43 +0000",
       "minecraft:river": "2025-01-03 00:53:42 +0000",
       "minecraft:forest": "2025-01-03 01:13:57 +0000",
+      "minecraft:desert": "2025-01-03 03:16:46 +0000",
       "minecraft:jungle": "2025-01-03 01:54:37 +0000",
       "minecraft:savanna": "2025-01-03 00:46:24 +0000",
       "minecraft:plains": "2025-01-03 00:53:51 +0000"
@@ -1068,6 +1139,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-01-03 00:49:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/food/general/garlic_bread": {
+    "criteria": {
+      "has_bread": "2025-01-03 03:33:38 +0000"
     },
     "done": true
   },
@@ -1138,6 +1215,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-03 03:30:08 +0000"
+    },
+    "done": true
+  },
   "croparia:recipes/crops/seed_crop_feather": {
     "criteria": {
       "has_feather": "2025-01-03 01:09:22 +0000",
@@ -1160,6 +1243,18 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-01-03 01:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 03:11:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-01-03 03:33:30 +0000"
     },
     "done": true
   },
@@ -1307,6 +1402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-03 03:33:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-03 00:55:37 +0000"
@@ -1334,6 +1435,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-01-03 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-03 03:33:30 +0000"
     },
     "done": true
   },
@@ -1439,6 +1546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-03 03:13:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-01-03 01:26:50 +0000"
@@ -1463,10 +1576,19 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-01-03 03:30:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-03 00:57:09 +0000",
-      "cooked_mutton": "2025-01-03 01:05:34 +0000"
+      "cooked_mutton": "2025-01-03 01:05:34 +0000",
+      "mutton": "2025-01-03 03:10:47 +0000",
+      "bread": "2025-01-03 03:35:19 +0000",
+      "melon_slice": "2025-01-03 03:11:04 +0000"
     },
     "done": false
   },
@@ -1597,6 +1719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-03 03:33:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2025-01-03 01:24:47 +0000"
@@ -1618,6 +1746,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-03 01:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-03 03:13:03 +0000"
     },
     "done": true
   },
@@ -1657,6 +1791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-03 03:33:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-01-03 00:49:50 +0000"
@@ -1666,6 +1806,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-01-03 01:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-01-03 03:13:43 +0000"
     },
     "done": true
   },
@@ -1819,6 +1965,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-01-03 03:34:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-03 02:53:44 +0000"
@@ -1828,6 +1980,13 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-03 00:55:37 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/crops/seed_crop_bread": {
+    "criteria": {
+      "has_bread": "2025-01-03 03:33:38 +0000",
+      "has_the_recipe": "2025-01-03 03:33:38 +0000"
     },
     "done": true
   },
@@ -1900,6 +2059,13 @@
   "infinitybuttons:recipe/redstone/torch_button": {
     "criteria": {
       "has_thing": "2025-01-03 00:50:24 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/misc/seed_crop_bread": {
+    "criteria": {
+      "has_bread": "2025-01-03 03:33:38 +0000",
+      "has_the_recipe": "2025-01-03 03:33:38 +0000"
     },
     "done": true
   },
@@ -1976,6 +2142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 03:11:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-03 01:26:50 +0000"
@@ -2015,6 +2187,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv3": {
     "criteria": {
       "has_iron": "2025-01-03 01:14:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/punji": {
+    "criteria": {
+      "has_item": "2025-01-03 03:11:34 +0000"
     },
     "done": true
   },
@@ -2064,6 +2242,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-01-03 00:49:50 +0000"
+    },
+    "done": true
+  },
+  "croparia:recipes/croparia_crop/seed_crop_powder": {
+    "criteria": {
+      "has_gunpowder": "2025-01-03 03:13:03 +0000"
     },
     "done": true
   },
